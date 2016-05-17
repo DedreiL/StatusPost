@@ -1,0 +1,214 @@
+body {background-image: url(backgroundwall.jpeg); 
+	background-size:cover;
+	 background-attachment: fixed;}
+
+h1 {color:8B4513;
+	font-family: Arial, ‘arial’, sans-serif;
+	font-size: 48px;
+	text-align: center;
+	margin-top: 200px;}
+
+h2 {color:8B4513;
+	font-family: Arial, ‘arial’, sans-serif;
+	font-size: 36px;
+	text-align:left;}
+	
+h3 {font-family: Arial, ‘arial’, sans-serif;
+	font-size: 28px;
+	text-align:center;}
+p {font-family: Arial, ‘arial’, sans-serif;
+	font-size: 22px;
+	text-align: center;
+	color: 800000;}
+
+ul {font-family: Arial, ‘arial’, sans-serif;
+	font-size: 22px;
+	text-align: left;
+	color: 800000;}
+a {font-family: Arial, ‘arial’, sans-serif;
+	font-size: 16px;
+	text-align: center;}
+
+form {font-family: Arial, ‘arial’, sans-serif;
+	font-size: 25px;
+	text-align: center;
+	color: 800000;}
+
+input.postButton {
+	width: 300px;
+	padding: 20px;
+	float: center;
+	font-family: Arial, ‘arial’, sans-serif;
+	font-weight: bold;
+	font-size: 100%;
+	background: sienna;
+	color: #FFFFFF;
+	cursor: pointer;
+	border: 1px solid #999999;
+	border-radius: 10px;}
+	
+	input[type='radio'] {
+    transform: scale(1.6);
+}
+
+	input[type='checkbox'] {
+    transform: scale(1.6);
+}
+
+input.postButton1 {
+	width: 300px;
+	padding: 20px;
+	float: center;
+	font-family: Arial, ‘arial’, sans-serif;
+	font-weight: bold;
+	font-size: 100%;
+	background: sienna;
+	color: #FFFFFF;
+	cursor: pointer;
+	border: 1px solid #999999;
+	border-radius: 10px;}
+	
+input.searchButton {
+	width: 300px;
+	padding: 20px;
+	float: center;
+	font-family: Arial, ‘arial’, sans-serif;
+	font-weight: bold;
+	font-size: 100%;
+	background: sienna;
+	color: #FFFFFF;
+	cursor: pointer;
+	border: 1px solid #999999;
+	border-radius: 10px;}
+
+input.searchButton1 {
+	width: 300px;
+	padding: 20px;
+	float: center;
+	font-family: Arial, ‘arial’, sans-serif;
+	font-weight: bold;
+	font-size: 100%;
+	background: sienna;
+	color: #FFFFFF;
+	cursor: pointer;
+	border: 1px solid #999999;
+	border-radius: 10px;}
+
+input.aboutButton {
+	width: 300px;
+	padding: 20px;
+	float: center;
+	font-family: Arial, ‘arial’, sans-serif;
+	font-weight: bold;
+	font-size: 100%;
+	background: sienna;
+	color: #FFFFFF;
+	cursor: pointer;
+	border: 1px solid #999999;
+	border-radius: 10px;}
+
+button.submitPost {
+	width: 300px;
+	padding: 20px;
+	float: center;
+	font-family: Arial, ‘arial’, sans-serif;
+	font-weight: bold;
+	font-size: 100%;
+	background: sienna;
+	color: #FFFFFF;
+	cursor: pointer;
+	border: 1px solid #999999;
+	border-radius: 10px;}
+
+button.resetStatus {
+	width: 300px;
+	padding: 20px;
+	float: center;
+	font-family: Arial, ‘arial’, sans-serif;
+	font-weight: bold;
+	font-size: 100%;
+	background: sienna;
+	color: #FFFFFF;
+	cursor: pointer;
+	border: 1px solid #999999;
+	border-radius: 10px;}
+
+input.homeButton1 {
+	width: 300px;
+	padding: 20px;
+	float: center;
+	font-family: Arial, ‘arial’, sans-serif;
+	font-weight: bold;
+	font-size: 100%;
+	background: sienna;
+	color: #FFFFFF;
+	cursor: pointer;
+	border: 1px solid #999999;
+	border-radius: 10px;}
+
+input.homeButton {
+	width: 300px;
+	padding: 20px;
+	float: center;
+	font-family: Arial, ‘arial’, sans-serif;
+	font-weight: bold;
+	font-size: 100%;
+	background: sienna;
+	color: #FFFFFF;
+	cursor: pointer;
+	border: 1px solid #999999;
+	border-radius: 10px;}
+
+input.backToPost {
+	width: 300px;
+	padding: 20px;
+	float: center;
+	font-family: Arial, ‘arial’, sans-serif;
+	font-weight: bold;
+	font-size: 100%;
+	background: sienna;
+	color: #FFFFFF;
+	cursor: pointer;
+	border: 1px solid #999999;
+	border-radius: 10px;}
+
+button.search {
+	width: 130px;
+	padding: 4px;
+	font-family: Arial, ‘arial’, sans-serif;
+	font-weight: bold;
+	font-size: 90%;
+	background: sienna;
+	color: #FFFFFF;
+	cursor: pointer;
+	border: 1px solid #999999;
+	border-radius: 10px;}
+
+input.searchInput, input.statusInput {
+	width: 200px;
+	padding: 3px;
+	border-style: solid;
+	border-color: sienna; 
+	font-family: Arial, ‘arial’, sans-serif;
+	font-weight: normal;
+	font-size: 16px;}
+
+table {
+    	border-collapse: collapse;
+	margin-left:auto; 
+    	margin-right:auto;
+	background-color: wheat;}
+
+table, th, td {
+    	border: 3px solid #683406;
+	font-family: Arial, ‘arial’, sans-serif;
+	font-size: 18px;
+	color: #683406;
+	
+	}
+th {
+    height: 50px;}
+
+td{
+	height: 40px;}
+
